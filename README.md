@@ -24,6 +24,24 @@
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/52627259/235290076-4eed6f83-dc14-4650-9538-cf3902d7a019.png">
 <img width="940" alt="image" src="https://user-images.githubusercontent.com/52627259/235290098-c02d5d25-af2b-47fe-b545-b017f27c9fc4.png">
 
+### Checking services on Agent1
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/52627259/235291262-c7efd98f-f8db-4348-b97c-5c97aca3dc24.png">
+
+### Checking free space on disk of Agent1
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/52627259/235291402-428bf86b-c090-485a-8a55-6c6cb320f19d.png">
+
+### Checking services on Agent2
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/52627259/235291444-129334bc-6989-4f5e-bb79-4c45d4e3aa36.png">
+
+### Checking free space on disk of Agent2
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/52627259/235291534-7851046e-c029-4d87-93a7-ad107d5cc0b4.png">
+
+### Checking connected MySql database to Agent2
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/52627259/235291572-8df607aa-fc62-4f30-bf10-33077d1f7d1a.png">
+
+### Checking local host services on Nagios Server
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/52627259/235291619-c140a07c-f28d-411d-ac20-a6f331517f0a.png">
+<img width="920" alt="image" src="https://user-images.githubusercontent.com/52627259/235291632-086b39bd-1097-4e6a-9fa3-23e41ae4b6a3.png">
 
 
 
